@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **aimee-liang/aimee-liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on: 
-Social Media: [LinkedIn](linkedin.com/in/aimeeliang)
-My Pronouns: she/hers
+[![Aimee's github stats](https://github-readme-stats.vercel.app/api?username=aimee-liang)](https://github.com/aimee-liang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimee-liang&layout=compact)](https://github.com/aimee-liang/github-readme-stats)
