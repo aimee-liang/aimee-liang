@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Aimee's github stats](https://github-readme-stats.vercel.app/api?username=aimee-liang)](https://github.com/aimee-liang/github-readme-stats)
+<!-- [![Aimee's github stats](https://github-readme-stats.vercel.app/api?username=aimee-liang)](https://github.com/aimee-liang/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimee-liang&layout=compact)](https://github.com/aimee-liang/github-readme-stats)
